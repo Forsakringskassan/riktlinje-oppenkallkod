@@ -1,6 +1,6 @@
 # Riktlinje för öppen källkod
 ## Information och bakgrund
-Försäkringskassan antog 2018-12-17 ett inom myndigheten formellt styrdokument gällande öppen källkod. Riktlinjen som gäller på myndighetsnivå hanterar både användandet och delande av öppen källkod samt när personal från myndigheten deltar i öppna samarbeten.
+Försäkringskassan antog 2018-12-17 ett inom myndigheten formellt styrdokument (Dnr: 15918-2018) gällande öppen källkod. Riktlinjen som gäller på myndighetsnivå hanterar både användandet och delande av öppen källkod samt när personal från myndigheten deltar i öppna samarbeten.
 
 Riktlinjen finns som diariefört dokument inom myndigheten, men för att öka samverkan finns dokumentets textinnehåll publicerat här för att enklare kunna spridas och förbättras.
 
