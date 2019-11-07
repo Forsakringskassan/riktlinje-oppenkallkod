@@ -38,7 +38,7 @@ _Den offentliga förvaltningens e-tjänster bör i så stor utsträckning som m�
 
 Statens inköpscentral vid Kammarkollegiet har villkor i flera av sina ramavtal för öppen källkod som kan användas som utgångspunkt för det juridiska förhållandet mellan myndigheten och en leverantör av källkod.
 
-Statens inköpscentral tillhandahåller även en lista över öppna standarder som följer rekommendationenerna från Europeiska kommissionen och regeringen.
+Statens inköpscentral tillhandahåller även en lista över öppna standarder som följer rekommendationerna från Europeiska kommissionen och regeringen.
 
  
 # 3 - Användande av lösningar med öppen källkod
